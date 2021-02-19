@@ -2,7 +2,7 @@
 
 int main()
 {
-
+ print("abcde");
   printf("abcdef");
   return 0;
 
